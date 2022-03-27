@@ -13,6 +13,8 @@ export const QUERY_ME = gql`
         image
         description
         title
+        pageCount
+        publishedDate
         link
       }
     }
